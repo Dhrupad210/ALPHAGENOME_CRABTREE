@@ -92,7 +92,7 @@ Below are the six key features engineered from per-strand functional genomic tra
 
 -----
 
-## Repository Structure
+## Output Structure in Notebook
 
 ```text
 alphagen4feature/

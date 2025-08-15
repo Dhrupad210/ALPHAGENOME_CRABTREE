@@ -18,7 +18,7 @@ from alphagenome.models import dna_client
 import numpy as np
 
 
-api_key = 'AIzaSyB9sISlkfut-cD0zQXb6IMOTxyD6koXSyM'
+api_key = 'AIxxxxxx'
 dna_model = dna_client.create(api_key)
 
 
